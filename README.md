@@ -36,23 +36,14 @@ This is a non exhaustive, tentative list of technologies that will be used in ou
 
 1. **Programming Language**: 
 
-- JavaScript
-
-JavaScript is widely adopted and versatile, making it an ideal choice for backend development.
-Students will gain a solid foundation in a language that can be applied to various backend projects.
+- JavaScript: JavaScript is widely adopted and versatile, making it an ideal choice for backend development. Students will gain a solid foundation in a language that can be applied to various backend projects.
 
 
 2. **Google Cloud Platform (GCP) Services**:
 
-- Google Cloud Databases:
+- Google Cloud Databases: Enables students to work with managed database services, such as Google Cloud SQL or Firestore. Students will learn how to design and interact with databases, perform CRUD operations, and ensure data integrity.
 
-Enables students to work with managed database services, such as Google Cloud SQL or Firestore.
-Students will learn how to design and interact with databases, perform CRUD operations, and ensure data integrity.
-
-- Firebase:
-
-Offers a comprehensive suite of backend services, including real-time database, authentication, and hosting.
-Students will gain hands-on experience in building backend functionalities like user authentication and real-time updates.
+- Firebase: Offers a comprehensive suite of backend services, including real-time database, authentication, and hosting. Students will gain hands-on experience in building backend functionalities like user authentication and real-time updates.
 
 ## Contribution
 Contributions to the teaching plans are welcome! If you have any suggestions, improvements, or additional topics, please feel free to submit a pull request or reach out to the repository maintainer.
