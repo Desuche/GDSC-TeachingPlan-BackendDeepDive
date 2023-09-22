@@ -1,0 +1,49 @@
+Teaching Plan for "Managing Data with Google Cloud Services" - Core Level
+
+Class Duration: 50 minutes
+
+Learning Objectives:
+1. Understand the concept of managing data using cloud-based services.
+2. Learn about various data storage and management services offered by Google Cloud.
+3. Explore the features and use cases of Google Cloud Datastore, Cloud Storage, and BigQuery.
+4. Gain hands-on experience with a simple exercise using one of the Google Cloud data services.
+
+Step-by-Step Approach:
+
+1. Introduction to Managing Data with Cloud Services (5 minutes)
+   - Begin the class by explaining the concept of managing data using cloud-based services.
+   - Discuss the advantages of using cloud services for data storage, scalability, and accessibility.
+   - Highlight the role of cloud services in managing and analyzing large volumes of data.
+
+2. Google Cloud Datastore (10 minutes)
+   - Introduce Google Cloud Datastore as a NoSQL document database service.
+   - Discuss the key features and benefits of using Datastore for storing and retrieving structured data.
+   - Explain the concept of entities, properties, and keys in Datastore.
+   - Provide examples of use cases where Datastore can be applied, such as web and mobile app development.
+
+3. Google Cloud Storage (10 minutes)
+   - Introduce Google Cloud Storage as a scalable and durable object storage service.
+   - Explain the concept of buckets and objects in Cloud Storage.
+   - Discuss the features and advantages of using Cloud Storage for storing various types of data, such as files, images, and backups.
+   - Provide examples of use cases where Cloud Storage can be applied, such as data archiving and serving static website content.
+
+4. Google BigQuery (10 minutes)
+   - Introduce Google BigQuery as a fully-managed serverless data warehouse and analytics platform.
+   - Discuss the features and benefits of using BigQuery for storing and querying large datasets.
+   - Explain the concept of datasets, tables, and SQL-like queries in BigQuery.
+   - Provide examples of use cases where BigQuery can be applied, such as data analysis, business intelligence, and machine learning.
+
+5. Google Cloud Data Services Exercise (25 minutes)
+   - Provide a simple exercise that involves using one of the Google Cloud data services covered in the class (Datastore, Cloud Storage, or BigQuery).
+   - Guide students through the process of setting up the required service and performing basic data management operations.
+   - Demonstrate how to create entities/objects, upload files, or run queries using the provided Google Cloud SDK or web interface.
+   - Encourage students to explore additional features and functionalities of the chosen data service.
+   - Allow students to work individually or in pairs, depending on class size and preference.
+   - Provide support and guidance as needed, answering questions and clarifying doubts.
+
+6. Recap and Conclusion (5 minutes)
+   - Summarize the key concepts covered in the class, including Google Cloud Datastore, Cloud Storage, and BigQuery.
+   - Emphasize the importance of leveraging cloud services for efficient data management and analysis.
+   - Encourage students to explore further resources and practice using different Google Cloud data services to enhance their skills.
+
+Note: This teaching plan is designed for a 50-minute class. Adjustments can be made based on the pace and progress of the students.

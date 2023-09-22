@@ -1,0 +1,41 @@
+Teaching Plan for "Web Security 1: Humans" - Advanced Level
+
+Class Duration: 50 minutes
+
+Learning Objectives:
+1. Understand the importance of human factors in web security.
+2. Learn about common human vulnerabilities and their impact on web security.
+3. Explore strategies for enhancing human awareness and behavior to improve web security.
+4. Gain a high-level understanding of the role of education and training in promoting web security.
+
+Step-by-Step Approach:
+
+1. Introduction to Human Factors in Web Security (10 minutes)
+   - Begin the class by explaining the significance of human factors in web security.
+   - Discuss how human behavior and decision-making can impact the overall security of web applications and systems.
+   - Highlight the fact that even the most robust technical security measures can be compromised due to human vulnerabilities.
+
+2. Common Human Vulnerabilities (15 minutes)
+   - Explore common human vulnerabilities that can be exploited by malicious actors.
+   - Discuss the risks associated with weak passwords, password reuse, and sharing sensitive information.
+   - Explain the dangers of falling victim to social engineering attacks, such as phishing, pretexting, and baiting.
+   - Highlight the importance of regular software updates and patches to mitigate vulnerabilities.
+
+3. Strategies for Enhancing Human Awareness (15 minutes)
+   - Discuss strategies for enhancing human awareness of web security risks.
+   - Explain the importance of strong and unique passwords, as well as the use of password managers.
+   - Discuss the concept of two-factor authentication (2FA) and its benefits in adding an extra layer of security.
+   - Emphasize the need for skepticism and caution when interacting with suspicious emails, links, or attachments.
+
+4. Education and Training for Web Security (10 minutes)
+   - Highlight the role of education and training in promoting web security.
+   - Discuss the importance of providing employees and users with proper security awareness training.
+   - Explain the significance of regular security updates, security policies, and guidelines.
+   - Discuss the benefits of conducting simulated phishing exercises to assess and improve user awareness.
+
+5. Recap and Conclusion (5 minutes)
+   - Summarize the key concepts covered in the class, focusing on the human aspects of web security.
+   - Emphasize the importance of recognizing human vulnerabilities and taking proactive measures to mitigate risks.
+   - Encourage students to further explore resources and stay updated on emerging web security threats and best practices.
+
+Note: This teaching plan is designed for a 50-minute class. Adjustments can be made based on the pace and progress of the students.

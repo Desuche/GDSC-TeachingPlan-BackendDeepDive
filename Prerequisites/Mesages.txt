@@ -1,0 +1,53 @@
+Teaching Plan: Messages: Let's Get These Robots Talking to Each Other (Prerequisite Level)
+
+Class Details:
+- Topic: Messages: Let's Get These Robots Talking to Each Other
+- Class Level: Prerequisite
+- Duration: 50 minutes
+
+Learning Objectives:
+By the end of this class, students should be able to:
+1. Understand the basics of networking and how computers communicate with each other.
+2. Define protocols and their importance in enabling communication between computers.
+3. Identify common protocols, APIs, and networks used for computer communication.
+
+Teaching Plan:
+
+I. Introduction (5 minutes)
+   - Welcome the students and introduce the topic.
+   - Explain the importance of networking basics in web development.
+   - Share the learning objectives for the class.
+
+II. Basics of Networking (10 minutes)
+   A. Definition of Networking
+      - Define networking and its role in connecting computers and devices.
+      - Discuss the significance of networking in enabling communication and data transfer.
+   B. Local Area Network (LAN) and Wide Area Network (WAN)
+      - Introduce the concepts of LAN and WAN.
+      - Briefly explain the difference between the two and their typical use cases.
+
+III. Protocols: Enabling Computer Communication (15 minutes)
+   A. Definition of Protocols
+      - Define protocols as a set of rules and conventions for communication between computers.
+      - Explain the importance of protocols in ensuring standardized and reliable communication.
+   B. Common Protocols
+      - Provide a list of common protocols, such as HTTP, TCP/IP, and DNS.
+      - Briefly mention their functions and use cases without going into details.
+   C. APIs: Application Programming Interfaces
+      - Briefly introduce APIs and their role in facilitating communication between software applications.
+      - Explain how APIs abstract the complexity of protocols and provide a simplified interface for developers.
+
+IV. Networks: Connecting Computers (15 minutes)
+   A. Local Networks
+      - Discuss local networks and their setup, including routers, switches, and Ethernet connections.
+      - Mention the importance of IP addresses and subnetting in local networks.
+   B. Internet
+      - Introduce the concept of the internet as a global network connecting computers worldwide.
+      - Emphasize the significance of the internet in enabling communication and data transfer on a large scale.
+
+V. Recap and Conclusion (5 minutes)
+   - Summarize the key concepts covered in the class.
+   - Address any questions or concerns from the students.
+   - Emphasize the importance of understanding networking basics for successful web development.
+
+Note: This teaching plan aims to provide a simple introduction to networking basics, focusing on protocols, APIs, and networks. Adjustments can be made based on the pace and needs of the students.

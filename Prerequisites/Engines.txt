@@ -1,0 +1,62 @@
+Teaching Plan: Engines: The Computers that Drive the Internet (Prerequisite Level)
+
+Class Details:
+- Topic: Engines: The Computers that Drive the Internet
+- Class Level: Prerequisite
+- Duration: 50 minutes
+
+Learning Objectives:
+By the end of this class, students should be able to:
+1. Understand the concept of runtimes and their role in executing code for the internet.
+2. Identify and differentiate between servers and serverless infrastructure.
+3. Familiarize themselves with other technologies that enable code execution for the internet.
+4. Gain a basic understanding of how runtimes and infrastructure work together to power web applications.
+
+Teaching Plan:
+
+I. Introduction (5 minutes)
+   - Welcome the students and introduce the topic.
+   - Explain the importance of understanding runtimes and infrastructure in web development.
+   - Share the learning objectives for the class.
+
+II. Understanding Runtimes (10 minutes)
+   A. Definition and Basics
+      - Define runtimes and explain their purpose in executing code.
+      - Discuss the concept of runtime environments and their role in running web applications.
+   B. Types of Runtimes
+      - Introduce different types of runtimes, such as server-side runtimes and client-side runtimes.
+      - Discuss the advantages and use cases of each type.
+
+III. Servers and Serverless Infrastructure (15 minutes)
+   A. Introduction to Servers
+      - Explain the concept of servers and their role in hosting web applications.
+      - Discuss server hardware and the different types of servers.
+   B. Serverless Infrastructure
+      - Introduce the concept of serverless computing and its benefits.
+      - Explain how serverless infrastructure handles code execution without the need for traditional servers.
+   C. Pros and Cons
+      - Discuss the advantages and disadvantages of using servers and serverless infrastructure.
+      - Highlight factors to consider when choosing between the two.
+
+IV. Other Technologies for Code Execution (15 minutes)
+   A. Containers
+      - Introduce the concept of containers and their role in running applications.
+      - Explain containerization technologies like Docker and their benefits.
+   B. Function as a Service (FaaS)
+      - Discuss the concept of Function as a Service and its use in executing code.
+      - Explain the benefits of FaaS platforms like AWS Lambda and Google Cloud Functions.
+   C. Content Delivery Networks (CDNs)
+      - Introduce CDNs and their role in delivering web content efficiently.
+      - Explain how CDNs work and their impact on code execution for the internet.
+
+V. How Runtimes and Infrastructure Work Together (5 minutes)
+   - Explain the relationship between runtimes and infrastructure in powering web applications.
+   - Discuss how developers deploy their code to run on specific runtimes and infrastructure.
+   - Highlight the importance of optimizing code for efficient execution on different runtimes.
+
+VI. Recap and Conclusion (5 minutes)
+   - Summarize the key concepts covered in the class.
+   - Address any questions or concerns from the students.
+   - Emphasize the importance of understanding runtimes and infrastructure for successful web development.
+
+Note: This teaching plan is a guideline and can be adjusted based on the pace and needs of the students.

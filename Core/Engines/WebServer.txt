@@ -1,0 +1,57 @@
+Teaching Plan: Web Servers (Core Level)
+
+Class Details:
+- Topic: Web Servers
+- Class Level: Core
+- Category: Engines
+- Duration: 50 minutes
+
+Learning Objectives:
+By the end of this class, students should be able to:
+1. Understand the role of web servers in hosting and serving web applications.
+2. Identify different types of web servers and their features.
+3. Familiarize themselves with the configuration and management of web servers.
+4. Gain practical knowledge of setting up a basic web server.
+
+Teaching Plan:
+
+I. Introduction (5 minutes)
+   - Welcome the students and introduce the topic.
+   - Explain the importance of web servers in web development.
+   - Share the learning objectives for the class.
+
+II. What is a Web Server? (10 minutes)
+   A. Definition and Basics
+      - Define web servers and their role in hosting and serving web applications.
+      - Explain how web servers respond to client requests and deliver web content.
+   B. Common Web Servers
+      - Introduce popular web servers such as Apache HTTP Server, Nginx, and Microsoft IIS.
+      - Discuss their features, market share, and use cases.
+
+III. Web Server Configuration (15 minutes)
+   A. Server Setup and Installation
+      - Explain the process of setting up a web server on a local machine or a remote server.
+      - Discuss different installation methods and platforms.
+   B. Server Configuration Files
+      - Introduce the concept of server configuration files (e.g., Apache's httpd.conf, Nginx's nginx.conf).
+      - Discuss the important settings and directives in these configuration files.
+   C. Virtual Hosts
+      - Explain the concept of virtual hosts and their role in hosting multiple websites on a single server.
+      - Discuss the configuration of virtual hosts for different domains or subdomains.
+   D. Security Considerations
+      - Discuss basic security measures such as SSL/TLS certificates, access controls, and firewalls.
+      - Highlight the importance of regular updates and patches to ensure server security.
+
+IV. Practical Setup and Demonstration (25 minutes)
+   - Provide a step-by-step demonstration of setting up a basic web server using a specific web server software.
+   - Explain the required configurations for hosting a simple website.
+   - Allow students to follow along and perform the setup on their own machines.
+   - Provide guidance and assistance as students work through the practical setup.
+   - Address common issues and troubleshooting techniques.
+
+V. Recap and Conclusion (5 minutes)
+   - Summarize the key concepts covered in the class.
+   - Address any questions or concerns from the students.
+   - Emphasize the importance of web server configuration and management in web development.
+
+Note: This teaching plan focuses on the core aspects of web servers, including their role, configuration, and practical setup. The majority of the class time is dedicated to the practical demonstration and allowing students to perform the setup themselves under guidance. Adjustments can be made based on the pace and needs of the students.

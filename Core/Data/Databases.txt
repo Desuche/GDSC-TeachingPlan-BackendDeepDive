@@ -1,0 +1,54 @@
+Teaching Plan for "Databases" - Core Level
+
+Class Duration: 50 minutes
+
+Learning Objectives:
+1. Understand the concept of databases and their role in storing and managing data.
+2. Learn about different types of databases, including SQL, NoSQL, and column store databases.
+3. Explore the characteristics, use cases, and advantages of each type of database.
+4. Provide an optional activity for a simple Google Cloud-based database exercise.
+
+Step-by-Step Approach:
+
+1. Introduction to Databases (5 minutes)
+   - Begin the class by explaining the concept of databases and their importance in managing data.
+   - Discuss how databases are used to store and organize structured or unstructured data.
+   - Highlight the role of databases in various applications, such as web development, e-commerce, and data analytics.
+
+2. Types of Databases (15 minutes)
+   - Introduce the different types of databases, focusing on SQL, NoSQL, and column store databases.
+   - Explain the key characteristics and differences between these types.
+   - Discuss the structured nature of SQL databases, the flexible schema of NoSQL databases, and the column-oriented storage of column store databases.
+
+3. SQL Databases (10 minutes)
+   - Explain the concept of SQL (Structured Query Language) databases.
+   - Discuss the relational model and the use of tables, rows, and columns.
+   - Highlight the advantages of SQL databases, such as ACID compliance and strong data consistency.
+   - Provide examples of popular SQL database systems, such as MySQL, PostgreSQL, and Oracle.
+
+4. NoSQL Databases (10 minutes)
+   - Introduce the concept of NoSQL (Not Only SQL) databases.
+   - Discuss the flexible schema and the ability to handle unstructured and semi-structured data.
+   - Explain different types of NoSQL databases, such as document-based, key-value, columnar, and graph databases.
+   - Provide examples of popular NoSQL database systems, such as MongoDB, Cassandra, and Redis.
+
+5. Column Store Databases (10 minutes)
+   - Explain the concept of column store databases.
+   - Discuss the column-oriented storage model and the benefits it provides for analytical queries.
+   - Highlight the advantages of column store databases, such as better compression, query performance, and data aggregation.
+   - Provide examples of popular column store database systems, such as Apache Cassandra and Google Bigtable.
+
+Optional Activity - Google Cloud-based Database Exercise (25 minutes)
+   - Provide a simple exercise that involves setting up and interacting with a Google Cloud-based database.
+   - Guide students through the process of creating a database instance using a service like Cloud Firestore or Cloud SQL.
+   - Demonstrate how to perform basic operations, such as creating tables, inserting data, and querying the database.
+   - Encourage students to explore the features and functionality of the database service.
+   - Allow students to work individually or in pairs, depending on class size and preference.
+   - Provide support and guidance as needed, answering questions and clarifying doubts.
+
+6. Recap and Conclusion (5 minutes)
+   - Summarize the key concepts covered in the class, including the different types of databases (SQL, NoSQL, and column store).
+   - Emphasize the importance of understanding the characteristics and use cases of each type of database.
+   - Encourage students to explore further resources and practice using different types of databases to enhance their skills.
+
+Note: This teaching plan is designed for a 50-minute class. Adjustments can be made based on the pace and progress of the students. The optional activity can be conducted either during the class or as a post-class exercise, depending on the availability of resources and time constraints.

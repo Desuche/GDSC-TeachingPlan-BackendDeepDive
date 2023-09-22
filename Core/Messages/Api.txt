@@ -1,0 +1,47 @@
+Teaching Plan for "APIs: REST, gRPC, SOAP, and GraphQL" - Core Level
+
+Class Duration: 50 minutes
+
+Learning Objectives:
+1. Understand the concept of APIs and their role in enabling communication between software applications.
+2. Learn about different types of APIs, including REST, gRPC, SOAP, and GraphQL.
+3. Explore the characteristics, use cases, and advantages of each API type.
+4. Gain a high-level understanding of how each API type works.
+
+Step-by-Step Approach:
+
+1. Introduction to APIs (5 minutes)
+   - Begin the class by explaining the concept of APIs (Application Programming Interfaces) and their importance in software development.
+   - Discuss how APIs enable communication and interaction between different software applications.
+   - Highlight the role of APIs in facilitating data exchange and functionality integration.
+
+2. RESTful APIs (15 minutes)
+   - Introduce REST (Representational State Transfer) as an architectural style for building APIs.
+   - Explain the key principles and characteristics of RESTful APIs, such as statelessness, resource-based URLs, and HTTP methods.
+   - Discuss the advantages of RESTful APIs, including scalability, simplicity, and widespread adoption.
+   - Provide examples of popular web services that use RESTful APIs, such as Twitter and GitHub.
+
+3. gRPC (10 minutes)
+   - Introduce gRPC as a high-performance, open-source framework for building remote procedure call (RPC) APIs.
+   - Explain how gRPC uses the Protocol Buffers (protobuf) language for defining service contracts and message formats.
+   - Discuss the advantages of gRPC, such as efficient binary serialization, support for multiple programming languages, and bidirectional streaming.
+   - Provide examples of use cases where gRPC can be applied, such as microservices architecture and inter-service communication.
+
+4. SOAP (10 minutes)
+   - Introduce SOAP (Simple Object Access Protocol) as a protocol for exchanging structured information in web services.
+   - Discuss the characteristics of SOAP-based APIs, such as XML-based message formats and the use of WSDL (Web Services Description Language) for service definition.
+   - Explain the advantages and disadvantages of SOAP, including strong typing, WS-Security for message-level security, and complexity compared to other API types.
+   - Provide examples of legacy systems and enterprise applications that still use SOAP-based APIs.
+
+5. GraphQL (10 minutes)
+   - Introduce GraphQL as a query language and runtime for APIs developed by Facebook.
+   - Explain the key features of GraphQL, such as client-driven queries, hierarchical structure, and strong typing.
+   - Discuss the advantages of GraphQL, including reduced over-fetching and under-fetching of data, flexibility in data retrieval, and the ability to aggregate multiple data sources.
+   - Provide examples of use cases where GraphQL can be applied, such as mobile app development and complex data fetching requirements.
+
+6. Recap and Conclusion (5 minutes)
+   - Summarize the key concepts covered in the class, including REST, gRPC, SOAP, and GraphQL.
+   - Emphasize the importance of understanding different API types and their respective use cases.
+   - Encourage students to explore further resources and dive deeper into each API type to enhance their understanding.
+
+Note: This teaching plan is designed for a 50-minute class. Adjustments can be made based on the pace and progress of the students.

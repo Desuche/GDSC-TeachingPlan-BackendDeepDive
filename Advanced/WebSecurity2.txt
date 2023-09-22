@@ -1,0 +1,41 @@
+Teaching Plan for "Web Security 2: Tech" - Advanced Level
+
+Class Duration: 50 minutes
+
+Learning Objectives:
+1. Understand the role of encryption in web security.
+2. Explore the different encryption algorithms and their uses in a backend context.
+3. Learn about authentication mechanisms and their significance in web security.
+4. Gain a high-level understanding of how encryption and authentication work together to enhance web security.
+
+Step-by-Step Approach:
+
+1. Introduction to Encryption in Web Security (10 minutes)
+   - Begin the class by explaining the importance of encryption in web security.
+   - Discuss the concept of encryption and its role in protecting sensitive data during transmission and storage.
+   - Explain the difference between symmetric and asymmetric encryption algorithms.
+
+2. Encryption Algorithms in Backend Context (15 minutes)
+   - Explore common encryption algorithms used in backend systems.
+   - Discuss the benefits and use cases of symmetric encryption algorithms, such as AES (Advanced Encryption Standard).
+   - Explain the concept of key management and the importance of securely storing and exchanging encryption keys.
+   - Introduce asymmetric encryption algorithms, such as RSA (Rivest-Shamir-Adleman), and their use in digital signatures and secure communication channels.
+
+3. Authentication Mechanisms (15 minutes)
+   - Discuss the significance of authentication in web security.
+   - Explain the concept of authentication and its role in verifying the identity of users or systems.
+   - Explore different authentication mechanisms, such as username/password, token-based authentication, and certificate-based authentication.
+   - Discuss the benefits and challenges of each authentication mechanism in a backend context.
+
+4. Encryption and Authentication Working Together (10 minutes)
+   - Highlight the relationship between encryption and authentication in web security.
+   - Explain how encryption ensures the confidentiality and integrity of data, while authentication verifies the identity of users or systems.
+   - Discuss the concept of secure communication channels and how encryption and authentication work together to establish trust.
+   - Provide examples of protocols that combine encryption and authentication, such as SSL/TLS (Secure Sockets Layer/Transport Layer Security).
+
+5. Recap and Conclusion (5 minutes)
+   - Summarize the key concepts covered in the class, focusing on encryption and authentication in a backend context.
+   - Emphasize the importance of implementing strong encryption algorithms and robust authentication mechanisms to enhance web security.
+   - Encourage students to further explore resources and stay updated on emerging encryption and authentication techniques.
+
+Note: This teaching plan is designed for a 50-minute class. Adjustments can be made based on the pace and progress of the students.

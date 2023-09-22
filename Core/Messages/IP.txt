@@ -1,0 +1,47 @@
+Teaching Plan for "IP Addresses and DNS" - Prerequisites Level
+
+Class Duration: 50 minutes
+
+Learning Objectives:
+1. Understand the concept of IP addresses and their role in identifying devices on a network.
+2. Learn about the different types of IP addresses, including IPv4 and IPv6.
+3. Explore the basics of DNS (Domain Name System) and its role in translating domain names to IP addresses.
+4. Gain a practical understanding of IP addressing and DNS configuration.
+
+Step-by-Step Approach:
+
+1. Introduction to IP Addresses (10 minutes)
+   - Begin the class by explaining the concept of IP addresses and their importance in computer networking.
+   - Discuss the purpose of IP addresses in identifying devices on a network and facilitating data communication.
+   - Introduce the two main versions of IP addresses: IPv4 and IPv6.
+   - Explain the structure of IPv4 addresses (four sets of numbers separated by dots) and IPv6 addresses (eight sets of hexadecimal values separated by colons).
+
+2. Types of IP Addresses (10 minutes)
+   - Discuss the difference between public and private IP addresses.
+   - Explain how public IP addresses are assigned to devices connected to the internet and used for communication with other networks.
+   - Discuss the concept of NAT (Network Address Translation) and how it allows multiple devices to share a single public IP address.
+   - Explain the purpose of private IP addresses within local networks and their role in facilitating internal communication.
+
+3. Introduction to DNS (10 minutes)
+   - Introduce DNS (Domain Name System) as a hierarchical and distributed naming system used to map domain names to IP addresses.
+   - Explain the importance of DNS in translating user-friendly domain names (e.g., www.example.com) into IP addresses (e.g., 192.0.2.1).
+   - Discuss the structure of domain names, including top-level domains (TLDs) and subdomains.
+   - Explain the role of DNS resolvers and authoritative DNS servers in the DNS lookup process.
+
+4. DNS Configuration (15 minutes)
+   - Explain the process of configuring DNS settings on devices and networks.
+   - Discuss the use of DNS servers provided by ISPs (Internet Service Providers) and public DNS servers (e.g., Google DNS, Cloudflare DNS).
+   - Demonstrate how to configure DNS settings on popular operating systems (e.g., Windows, macOS, Linux) by accessing network settings.
+   - Discuss the importance of periodically updating DNS cache and clearing DNS cache on devices for accurate name resolution.
+
+5. DNS Troubleshooting (5 minutes)
+   - Briefly discuss common DNS issues and how to troubleshoot them.
+   - Explain the concept of DNS propagation and the time it takes for DNS changes to propagate globally.
+   - Provide tips for troubleshooting DNS-related problems, such as checking network connectivity, verifying DNS server configuration, and using diagnostic tools like nslookup or dig.
+
+6. Recap and Conclusion (5 minutes)
+   - Summarize the key concepts covered in the class, including IP addresses and DNS.
+   - Emphasize the importance of understanding IP addressing and DNS configuration for effective network communication.
+   - Encourage students to explore further resources and practice configuring DNS settings on their devices to enhance their understanding.
+
+Note: This teaching plan is designed for a 50-minute class. Adjustments can be made based on the pace and progress of the students.
