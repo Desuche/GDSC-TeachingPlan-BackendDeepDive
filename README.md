@@ -1,7 +1,7 @@
 # GDSC-TeachingPlan-BackendDeepDive
 This is a teaching plan for the HKBU Google Developer Student Club's Backend Deep Dive Program
 
-<p><img src="./gdsc.png" alt="gdsc logo"></p>
+<div><img src="./gdsc.png" alt="gdsc logo"></div>
 
 ## Overview
 This repository contains detailed teaching plans for various levels of classes focusing on backend technologies. The classes are structured into three levels: Prerequisites, Core, and Advanced. The recommended learning path is to start with the Prerequisites, then progress to the Core, and finally move on to the Advanced level.
